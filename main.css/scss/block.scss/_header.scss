@@ -1,0 +1,47 @@
+.container{
+    margin-bottom: 70px;
+}
+.siteheader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.box1{
+    margin-left: 60px;
+}
+
+.siteheader__title{
+    width: 610px;
+    margin-bottom: 40px;
+    color: rgb(54, 55, 56);
+font-family: Exo 2;
+font-size: 52px;
+font-weight: 600;
+line-height: 125%;
+letter-spacing: 0%;
+text-align: left;
+} 
+
+.siteheader__text{
+    width: 525px;
+    color: rgb(107, 107, 108);
+font-family: PT Sans;
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 40px;
+}
+
+.siteheader__link{
+    color: rgb(54, 55, 56);
+font-family: PT Sans;
+font-size: 16px;
+font-weight: 700;
+text-align: left;
+}
+
+.box2{
+    width: 700px;
+    height: 500px;
+    margin-top: 50px;
+}

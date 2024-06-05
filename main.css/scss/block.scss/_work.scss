@@ -1,0 +1,30 @@
+.work__list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 20px;
+    width: 1240px;
+    margin-left: 90px;
+    padding: 30px;
+    border-radius: 20px;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.15);
+  background: rgb(255, 255, 255);
+  }
+  
+  
+  .work__item{
+  list-style: none;
+  }
+  .work__img{
+      width: 92px;
+      height: 92px;
+  }
+  
+  .work__title{
+      width: 228px;
+  }
+  
+  .work__text{
+      width: 225px;
+  }
+  
